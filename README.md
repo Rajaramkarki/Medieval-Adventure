@@ -2,28 +2,29 @@
 
 Welcome to Medieval Adventure, a 2D adventure game that takes you on a journey through a mysterious village and into a "challenging" dungeon. 
 
---title link--
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/67723187/233784760-cfb7e669-db65-48b2-bbd5-a151ab7905eb.png">
 
 The artwork used in Medieval Adventure is open-source, and has been edited to fit the game's requirements. The combat system is basic, and there is an NPC with whom you can interact and figure out your next moves. The game has been developed using Unity and coded with C#, while artwork creation was done with Photoshop. Unity Collaboration and Microsoft Visual Studio were used as the version control tool and primary IDE for coding, respectively.
 
 This project was originally created for semester project.
 
+
 ## Map Design
 The map is simple and is designed with tile palette in Unity. It has seven blocks/separate rooms created on the maps where transition occurs from one to another. 
 
---link here--
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/67723187/233784791-14fce81e-c3cf-4184-b583-68cbb983e6f3.png">
 
 In one of the rooms, there is a gateway to dungeon whose map is similar to the previous one.
 
---dungeon link--
+<img width="535" alt="image" src="https://user-images.githubusercontent.com/67723187/233784805-590a245b-d0ea-476c-b383-c0994cd3cb9c.png">
 
-To direct one's attention to the dungeon, there is an NPC as well.
-
---NPC---
 
 ## Players and Enemies
 The player is a simple 2D sprite whose basic animations are implemented. Similarly the enemies are logs who tend to attach the player if they appear within the radar of the enemy.
---images--
+![image](https://user-images.githubusercontent.com/67723187/233784881-806822ac-3b8b-43c3-b64e-94afc5b1b5f0.png)
+
+![image](https://user-images.githubusercontent.com/67723187/233784886-40ab606b-887f-467d-9c9b-bef460527291.png)
+
 
 ## Running the Game 
 If you want to run Medieval Adventure on your machine, you will need to have the Unity engine installed. Once you have Unity installed, you can follow these steps:
